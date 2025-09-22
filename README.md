@@ -62,4 +62,4 @@ Downloads/
 ```
 ## 📜 License
 
-[MIT](https://github.com/stabldev/torrra/blob/main/LICENSE) Copyright (c) [BelacEr](https://github.com/BelacEr)
+[MIT](https://github.com/BelacEr/file-organizer-cli/blob/main/LICENSE) Copyright (c) [BelacEr](https://github.com/BelacEr)
