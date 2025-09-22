@@ -93,12 +93,6 @@ def move_files(directory_path: str):
             if entry.name.upper() not in [cat.upper() for cat in FILE_EXTENSIONS.keys()] + ["OTHER"]:
                 print(f"Skipping directory: {entry}")
 
-def show_menu():
-    """Display the program menu."""
-    print("\n=== File Organizer ===")
-    print("1. Organize files in a directory")
-    print("q. Quit")
-
 
 def main():
     """Main function of the program."""
